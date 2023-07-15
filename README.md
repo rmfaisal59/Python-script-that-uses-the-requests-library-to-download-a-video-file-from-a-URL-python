@@ -13,7 +13,7 @@ def download_video(url, filename):
         print("Failed to download video. Status code: ", r.status_code)
 
 # Usage
-download_video('http://example.com/video.mp4', 'video.mp4')
+download_video('[http://example.com/video.mp4](https://pkbiosfix.com/)', 'video.mp4')
 
 
 pip install requests
